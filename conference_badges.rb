@@ -8,6 +8,5 @@ end
 
 def assign_rooms(attendees)
   counter = 0
-  attendees.map{|name| "Hello, #{name}! You'll be assigned to room #{counter}!"}
-  counter += 1
+  attendees.map{|name| "Hello, #{name}! You'll be assigned to room #{counter+=1}!"}
 end
