@@ -7,5 +7,4 @@ def batch_badge_creator(array)
 end
 
 def room_assignment(attendees)
-  
 end
