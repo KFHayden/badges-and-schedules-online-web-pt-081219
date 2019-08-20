@@ -14,6 +14,4 @@ def assign_rooms(attendees)
 end
 
 def printer(attendees)
-  badge_maker
-  assign_rooms
 end
